@@ -1,6 +1,6 @@
 <h2>Simple-Whatsapp-share-from-your-android-app</h2>
 
-This adroid app share a pre-writen text message from your android app to your whatsapp users
+This adroid app share a pre-written text message from your android app to your whatsapp users
 
 <h3>How to use it</h3>
   <ul>
